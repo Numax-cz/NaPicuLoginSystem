@@ -9,7 +9,7 @@
     <title>Zmrde</title>
 </head>
 <body>
-    kurva drž píču LLLLL
-    
+  NapicuLoginSystem!!!
+    /register.php 
 </body>
 </html>
