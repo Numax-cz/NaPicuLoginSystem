@@ -8,7 +8,7 @@ CREATE TABLE `LoginSystem`.`login` ( `id` INT NOT NULL AUTO_INCREMENT , `usernam
 ```
 * Poté nastavte v `config.php` údaje od databáze
 * Většinu nastavení najdete v `db.php`
-* Jestli změníte název tabulky, nebo jiné parametry v databázy budete je muset změnit v `db.php` 
+* Jestli změníte název tabulky, nebo jiné parametry v databázi budete je muset změnit v `db.php` 
 
 ```php
 return [
