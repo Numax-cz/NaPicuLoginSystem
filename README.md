@@ -1,6 +1,6 @@
 ## NapicuLoginSystem
 * NaPicuLoginSystem je login/register system v PHP.
-* Kód není 100% bezpeční pouze ukazuje jak takový login/ register systém může vypadat. Proto nezaručuji bezpečnost!!
+* Nezaručuji 100% bezpečnost
 ## Setup
 * Pouze pro snadné nastavení
 ```sql
